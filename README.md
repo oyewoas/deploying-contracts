@@ -1,0 +1,10 @@
+Alfajores Deployment
+
+Hardhat 0x91fdeC747d15700646f47c8582BF35bfe174078A(https://alfajores.celoscan.io/address/0x91fdeC747d15700646f47c8582BF35bfe174078A#code)
+
+
+Hardhat
+0x683CcBC370eb8386cc3b9013598455EFa81e7604(https://alfajores.celoscan.io/address/0x683CcBC370eb8386cc3b9013598455EFa81e7604#code)
+
+Foundry
+0x6CEEDE0F1977dd296490273973c833f0BDc10EFF(https://alfajores.celoscan.io/address/0x6CEEDE0F1977dd296490273973c833f0BDc10EFF#code)
